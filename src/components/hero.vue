@@ -177,7 +177,7 @@
     </div>
 
     <div class="headline">
-      <Heading>[ Internet of Humans ]</Heading>
+      <Heading>[ Next Generation Internet ]</Heading>
       <Paragraph variation="large" activeColor="white">
         <b
           >What should the Internet - and all it encompasses, which means pretty much everything -
